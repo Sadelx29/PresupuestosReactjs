@@ -6,7 +6,7 @@ import {
   SwipeAction,
   TrailingActions,
 } from "react-swipeable-list";
-import "react-swipeable-list/dist/Styles.css";
+import "react-swipeable-list/dist/styles.css";
 import { formatearFecha } from "../helpers";
 
 import iconoAhorro from "../img/icono_ahorro.svg";
